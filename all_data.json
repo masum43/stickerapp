@@ -1,0 +1,309 @@
+{
+  "GuideData": {
+
+
+    "AdsController": [
+      {
+        "NetworkAds": "admob",
+        "AdMobId": "pub-3940256099942544",
+
+        "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
+        "InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
+        "NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
+
+        "BannerFacebook": "VID_HD_9_16_39S_APP_INSTALL#YOUR_PLACEMENT_ID",
+        "InterstitialFacebook": "VID_HD_9_16_39S_APP_INSTALL#YOUR_PLACEMENT_ID",
+        "NativeFacebook": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
+
+      }
+    ],
+
+    "items": [
+      {
+        "title": "Be cautious about zones-",
+        "image": "https://www.scoviral.com/apps/imposter/preview/list1.jpg"
+      },
+      {
+        "title": "Keep sabotaging",
+        "image": "https://www.scoviral.com/apps/imposter/preview/list2.jpg"
+      },
+      {
+        "title": "Make it to sabotaged location",
+        "image": "https://www.scoviral.com/apps/imposter/preview/list3.jpg"
+      },
+      {
+        "title": "Sabotage during the kill cooldown",
+        "image": "https://www.scoviral.com/apps/imposter/preview/list4.jpg"
+      },
+      {
+        "title": "Have an alibi ready always",
+        "image": "https://www.scoviral.com/apps/imposter/preview/list5.jpg"
+      },
+      {
+        "title": "Self-report the kill - do it fast",
+        "image": "https://www.scoviral.com/apps/imposter/preview/list6.jpg"
+      }
+    ],
+
+    "content1": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "bold",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "Be cautious about the ‘popular’ kill zones",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://www.scoviral.com/apps/imposter/content1/1.jpg",
+        "text": "Be very cautious about the ‘popular’ kill zones in the maps, areas that have become notorious, like Electrical and Security in The Skeld map. If you have played a lot of Among Us by now, you know that these places are the hotbeds of crime. Electrical makes it very easy for the impostor to disappear due to a vent close to the task area while Security is itself not under surveillance. But suppose you pop out the vent in Security and there is someone in the room NOT looking at the camera, then you are screwed. A similar case can happen in Electrical.",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://www.scoviral.com/apps/imposter/content1/2.jpg",
+        "text": "Check your kill cooldown time\n
+		That place is usually dark as machines are kept just in front of the door due to which it is hard to figure out if a crew member is already there or not.",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "25",
+        "isLink": "true","link_title": "Open The Game","setLink": "com.eyesthegame.eyes",
+        "image_link": "",
+        "text": "Keep a note on your kill cooldown time. If it is more than 10-15 seconds, you have to be extra careful in making sure that no one else is around when you are about to pop someone off. The more the cooldown time, the slower you can kill.",
+        "isNative": "false"
+      }
+    ],
+
+    "content2": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "bold",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "Remember what went wrong",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://www.scoviral.com/apps/imposter/content2/1.jpg",
+        "text": "You can sabotage from any place in the map. There is a cooldown time for that too and it takes some time before you can sabotage another location. Sabotaging the Reactor and the O2 filter, killing off the lights, closing doors are some of the effective ways to improve your winning chance.",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://www.scoviral.com/apps/imposter/content2/2.jpg",
+        "text": "Use the time while travelling to sabotaged location to kill",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "25",
+        "isLink": "true","link_title": "Open The Game","setLink": "com.eyesthegame.eyes",
+        "image_link": "",
+        "text": "After a sabotage, crew members usually rush to the affected area to fix the damage. This gives you a window to kill a crew member who is working alone in a room or running through an alley.",
+        "isNative": "false"
+      }
+    ],
+
+    "content3": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "bold",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "Try to make it to the sabotaged location and try not to be too late",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://www.scoviral.com/apps/imposter/content3/1.jpg",
+        "text": "If everyone has made it to the sabotaged spot and you are not there, this will be taken note of by some of the crew members and suspicions would be raised. It does not necessarily mean that you will get voted out, but hey, why take the chance? Also, don’t be the last one to reach the sabotaged spot as it could make for a strong case against you. Reach there in time and show some fake support.",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://www.scoviral.com/apps/imposter/content3/2.jpg",
+        "text": "",
+        "isNative": "true"
+      }
+    ],
+
+    "content4": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "bold",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "Sabotage during the kill cooldown time if it is long",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://www.scoviral.com/apps/imposter/content4/1.jpg",
+        "text": "After a kill, if you have 20 or more seconds before you can kill again, use that time to sabotage (after escaping to a safe location, of course). That way, you distract every crew member into fixing the damage. What benefits does it have? After a sabotage, most crew members (and the smart impostors too) try to rush to the location and as an impostor, you can find another victim after the cooldown.",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://www.scoviral.com/apps/imposter/content4/2.jpg",
+        "text": "Make sure you fake doing the tasks that aren&#x27;t visible",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "25",
+        "isLink": "true","link_title": "Open The Game","setLink": "com.eyesthegame.eyes",
+        "image_link": "",
+        "text": "We mentioned some of the areas where tasks are visible in our previous article. As an impostor, you have to make sure to avoid those areas/tasks as far as possible.",
+        "isNative": "false"
+      }
+    ],
+
+    "content5": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "Have an alibi ready always",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://www.scoviral.com/apps/imposter/content5/1.jpg",
+        "text": "When accused on the chat, have something ready in your defence. If possible, try to make it as explanatory as possible. Suppose you say on chat that you were in a particular room when you were actually not and someone accuses you with proof, you are done for.",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://www.scoviral.com/apps/imposter/content5/2.jpg",
+        "text": "Start small",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "Suppose you choose orange skin but you name yourself as Red. Naming yourself based on a colour can spread confusion among players who are not observing the game minutely and can help you only if you become the impostor in the game.",
+        "isNative": "true"
+      }
+    ],
+
+    "content6": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "Self-report the kill and do it fast",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://www.scoviral.com/apps/imposter/content6/1.jpg",
+        "text": "This is another effective way to prevent suspicions against you. Report a kill done by you before any other crew member finds the dead body and reports it.",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://www.scoviral.com/apps/imposter/content6/2.jpg",
+        "text": "**********************",
+        "isNative": "true"
+      }
+    ]
+  }
+}
